@@ -2,4 +2,4 @@
 -compile(export_all).
 
 hello('GET', []) ->
-  {output, "Hello, world!"}.
+  {output, "Hello, world! Let's start!"}.
